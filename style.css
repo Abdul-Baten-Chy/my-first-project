@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 255, 255);
+   
+}
+main {
+    max-width: 960px;
+    background-color: rgb(238, 240, 242);
+    margin: 0 auto;
+    height: 100vh;
+    display: grid;
+    grid-column: 1fr 1fr 1fr;
+}
+
+header h1 {
+    padding: 30px 10%;
+    
+}
+
+.practise{
+    color: blue;
+    text-decoration: underline;
+    font-weight: bolder;
+
+}
+header p {
+    font-size: 20px;
+}
